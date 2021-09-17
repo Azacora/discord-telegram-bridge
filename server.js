@@ -51,7 +51,7 @@ const client = new Discord.Client();
 var telegram = require("natsvora-telegram-bot-api");
 
 // import env variables
-var telegramToken = 2042732893:AAEBS-ms7VPBCPVs7Me8YQefXJLAk_QjySw
+var telegramToken = AAEBS-ms7VPBCPVs7Me8YQefXJLAk_QjySw
 const DISCORD_TOKEN = ODg4NDE0OTEwNzA5NjM3MTUy.YUSW3A.n3usCuV65tJUOW5uFUZl_AbX8K4
 var telegramChatId = -1556248388
 var discordChannelId = 876984748881346591;
