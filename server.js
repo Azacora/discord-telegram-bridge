@@ -51,14 +51,14 @@ const client = new Discord.Client();
 var telegram = require("natsvora-telegram-bot-api");
 
 // import env variables
-var telegramToken = process.env.TELEGRAM_BOT_TOKEN
-const DISCORD_TOKEN = process.env.DISCORD_TOKEN
-var telegramChatId = process.env.TELEGRAM_CHAT_ID
-var discordChannelId = process.env.discordChannelId;
+var telegramToken = process.env.2042732893:AAFlwtTxQ6ffANSyZe_wues9peUrU9S6wkU
+const DISCORD_TOKEN = process.env.ODg4NDE0OTEwNzA5NjM3MTUy.YUSW3A.n3usCuV65tJUOW5uFUZl_AbX8K4
+var telegramChatId = process.env.-1556248388
+var discordChannelId = process.env.876984748881346591;
 
 const webhookClient = new Discord.WebhookClient(
-  process.env.webhook_id,
-  process.env.webhook_token
+  process.env.888410163688661002,
+  process.env.97Mvvfu9Jh8-nmPI6qIbRFH6M-aaTmECPgtaofAeKD5e5a6lHApOIcz5KI0HN-S857Ty
 );
 // initializes the telegram bot and starts listening for updates (new messages)
 var api = new telegram({
