@@ -57,8 +57,8 @@ var telegramChatId = -1556248388
 var discordChannelId = 876984748881346591;
 
 const webhookClient = new Discord.WebhookClient(
-  process.env.888410163688661002,
-  process.env.97Mvvfu9Jh8-nmPI6qIbRFH6M-aaTmECPgtaofAeKD5e5a6lHApOIcz5KI0HN-S857Ty
+  888410163688661002,
+  97Mvvfu9Jh8-nmPI6qIbRFH6M-aaTmECPgtaofAeKD5e5a6lHApOIcz5KI0HN-S857Ty
 );
 // initializes the telegram bot and starts listening for updates (new messages)
 var api = new telegram({
